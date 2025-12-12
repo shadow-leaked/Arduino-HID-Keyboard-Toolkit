@@ -1,0 +1,22 @@
+
+```
+# Arduino & build artifacts
+*.o
+*.d
+*.elf
+.build/
+
+# Editor directories
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Misc
+node_modules/
+```
