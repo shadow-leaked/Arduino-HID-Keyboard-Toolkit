@@ -22,7 +22,7 @@ void setup() {
   delay(1000); // Wait for Notepad to open
 
   // 4. Type the "Malicious" Message
-  Keyboard.print("Silvia has double standard!");
+  Keyboard.print("You have been hacked by R4!");
 }
 
 void loop() {
